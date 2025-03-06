@@ -2,7 +2,7 @@
 
 class ExercicioUm
 {
-    static void Main(string[] args)
+    public static void Executar()
     {
         Console.Write("Digite o número do seu dia de nascimento: ");
         int dia = int.Parse(Console.ReadLine());
